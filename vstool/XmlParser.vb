@@ -1,5 +1,4 @@
-﻿
-Imports System.Text.RegularExpressions
+﻿Imports System.Text.RegularExpressions
 
 Public Class XmlParser
     Private latestpath As String

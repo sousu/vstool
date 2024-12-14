@@ -1,5 +1,4 @@
-﻿
-' IEの自動起動
+﻿' IEの自動起動
 
 Imports System.Threading
 Imports System.Runtime.InteropServices
