@@ -1,5 +1,4 @@
-﻿
-'クリップボードのテキストのリアルタイム取り出しハンドラ
+﻿'クリップボードのテキストのリアルタイム取り出しハンドラ
 
 Imports System.Runtime.InteropServices
 
