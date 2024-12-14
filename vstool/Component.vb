@@ -4,9 +4,9 @@ Public Class Component
 
     Private Sub itemHelpClick(sender As Object, e As EventArgs) Handles ToolStripMenuItemHelp.Click
         Dim help = <Query>
- - コピペしたテキストがXMLを含んでいる場合、自動でIEを開き表示
- - コピペ結果は指定した履歴フォルダに日時を含むファイル名にて自動で保存
- - IEでローカルファイルを読み込む関係から管理者権限での実行が必要
+  - コピペしたテキストがXMLを含んでいる場合、自動でIEを開き表示
+  - コピペ結果は指定した履歴フォルダに日時を含むファイル名にて自動で保存
+  - IEでローカルファイルを読み込む関係から管理者権限での実行が必要
                    </Query>
         MessageBox.Show(help)
     End Sub
